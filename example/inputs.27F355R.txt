@@ -1,0 +1,6 @@
+plugins/Amplicon/example/release9_60_unaligned.fasta
+plugins/Amplicon/example/temp
+plugins/Amplicon/example/temp1
+AGAGTTTGATCCTGGCTCAG
+GCTGCCTCCCGTAGGAGT
+plugins/Amplicon/example/27F355R_MD.xls

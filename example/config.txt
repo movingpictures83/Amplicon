@@ -1,0 +1,2 @@
+Prefix plugins/Amplicon/example/
+Plugin Amplicon inputfile inputs.27F355R.txt outputfile 27F355R_MD.xls

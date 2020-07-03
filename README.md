@@ -1,9 +1,9 @@
-# Extract
+# Amplicon
 # Language: Perl
-# Dependency: BioPerl
 # Input: TXT
-# Output: FASTA
-# Tested with: PluMA 1.0,  Perl 5.18
+# Output: XLS
+# Tested with: PluMA 1.1,  Perl 5.18.2
+# Dependency: BioPerl 1.006923
 
 PluMA plugin that looks at sequences in a FASTA file and returns the names of organisms
 whose sequences have 16S rRNA genes that generate a product with PCR.  The user must

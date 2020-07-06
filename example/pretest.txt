@@ -1,0 +1,3 @@
+gunzip plugins/Amplicon/example/release9_60_unaligned.fasta.tar.gz
+bash -c "tar -xvf plugins/Amplicon/example/release9_60_unaligned.fasta.tar >& /dev/null"
+mv release9_60_unaligned.fasta plugins/Amplicon/example/
